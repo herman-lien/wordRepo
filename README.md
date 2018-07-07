@@ -1,2 +1,2 @@
 # wordRepo
-a tag-type words' classification management system
+an app of tag-type words' classification management system
